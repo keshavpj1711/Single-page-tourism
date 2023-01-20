@@ -591,7 +591,9 @@ nav{
  
   .contactus-c21, .contactus-c22, .contactus-c23{
     display: flex;
+    justify-content: space-between;
   }
+
 
   .contactus-c211, .contactus-c212, .contactus-c221, .contactus-c222, .contactus-c231{
     padding: 10px 10px;
